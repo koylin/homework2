@@ -17,6 +17,23 @@
     width: 400px;
     height: 300px;
 }
-dt{
-    padding: 5px;
+.bodyp:hover{
+    color: pink;
+}
+dt:hover{
+   
+    color: red;
+}
+h4:hover{
+    color: pink;
+}
+ul:hover{
+    color: pink;
+}
+h2:hover{
+ color: red;
+ 
+}
+dd:hover{
+    color: pink;
 }
